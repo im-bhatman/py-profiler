@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: py-profiler
+Version: 0.0.0
+Summary: Simple library for python code profiling
+Home-page: https://github.com/hackSlanger/py-profiler
+Author: Ritesh Bhat
+Author-email: hackslanger@zoho.com
+License: UNKNOWN
+Description: # Simple Python Profiler
+        Simple download the .whl file and run the pip install command to install it.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown

@@ -9,6 +9,7 @@ To use the library simply import the py decorator :
 So wherever you need need to profile the function just add the profile decorator before the function:
 
     
+    from profiler import profiler
     @profiler
     def my_func():
         # do something

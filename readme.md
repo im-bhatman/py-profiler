@@ -16,7 +16,7 @@ So wherever you need need to profile the function just add the profile decorator
 
 As result to the script data related to the script will be generated
 
-
+bhi to de
      6 function calls in 0.000 seconds
      Ordered by: standard name
 

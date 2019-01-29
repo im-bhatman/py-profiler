@@ -34,3 +34,5 @@ bhi to de
         1    0.000    0.000    0.000    0.000 test.py:4(main)
         4    0.000    0.000    0.000    0.000 {built-in method builtins.print}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+Ref:https://docs.python.org/3.6/library/profile.html

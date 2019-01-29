@@ -11,7 +11,6 @@ def profiler(func):
 		ps = pstats.Stats(pr, stream=s).sort_stats(sortby)
 		ps.print_stats()
 		pr.print_stats()
-		print("shit")
 		print(s.getvalue())
 		return res
 
